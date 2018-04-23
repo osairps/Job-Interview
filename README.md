@@ -1,5 +1,5 @@
 # Job Interview: Data Scientist
-Disciplina: Probabilidade, Universidade Federal do Rio Grande do Norte ([UFRN](http://http://www.ufrn.br))
+Subect: Probability, Federal University of Rio Grande do Norte ([UFRN](http://http://www.ufrn.br))
 
 ### Author:
 [Oziel Alves](https://github.com/ozielalves)
